@@ -1,6 +1,5 @@
 # tmdb-helper-yawsp
-Tento repozitář obsahuje jednoduchý `.json` přehrávač pro doplněk TMDb Helper v Kodi. Umožňuje automatizované vyhledávání filmů a seriálů na Webshare prostřednictvím doplňku YAWsP. Hledá přesné názvy, automaticky doplňuje čísla sérií a epizod a filtruje výsledky dle velikosti souboru.
-
+Tento repozitář obsahuje jednoduchý `.json` přehrávač pro doplněk TMDb Helper v Kodi. Umožňuje automatizované vyhledávání filmů a seriálů prostřednictvím doplňku YAWsP. 
 *Vytvořeno ve spolupráci s umělou inteligencí.*
 
 ## 🛠 Jak přehrávač nainstalovat do Kodi
