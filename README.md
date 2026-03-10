@@ -29,4 +29,4 @@ Máte dvě možnosti instalace.
 
 ⚠️ **Limitace vyhledávání:** Berte prosím na vědomí, že se jedná o velmi **jednoduché textové vyhledávání**. Z toho důvodu se může stát, že u některých filmů či seriálů (zejména těch s příliš obecným, krátkým nebo cizojazyčným názvem) se ve výsledcích mohou zobrazit nesouvisející soubory.
 
-**Pro lepšní výsledky doporučuji nechat jazyk TMDb Helper v angličtině.**
+**Pro lepší výsledky doporučuji nechat jazyk TMDb Helper v angličtině.**
