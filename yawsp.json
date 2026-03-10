@@ -1,5 +1,5 @@
 {
-  "name": "YAWsP (Největší videa)",
+  "name": "YAWsP",
   "plugin": "plugin.video.yawsp",
   "priority": 100,
   "is_resolvable": false,
