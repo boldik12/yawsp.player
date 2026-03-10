@@ -13,7 +13,7 @@ Máte dvě možnosti instalace.
 2. V levém menu vyberte **Players (Přehráváče)**.
 3. Klikněte na **Update players from URL**.
 4. Vložte odkaz na ZIP soubor tohoto repozitáře:
-   `https://github.com/boldik12/tmdb.yawsp.player/archive/refs/heads/main.zip`
+   `https://github.com/boldik12/yawsp.player/archive/refs/heads/main.zip`
 5. Potvrďte stisknutím OK.
 
 ### Možnost 2: Manuální vložení souboru
