@@ -9,7 +9,7 @@ Máte dvě možnosti instalace.
 
 ### Možnost 1: Instalace přes URL adresu v doplňku
 
-1. Otevřete TMDb Helper doplněk.
+1. Otevřete nastavení TMDb Helper doplňku.
 2. V levém menu vyberte **Přehrávače (Players)**.
 3. Klikněte na **Update players from URL**.
 4. Vložte odkaz na ZIP soubor tohoto repozitáře:
