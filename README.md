@@ -1,5 +1,5 @@
 # YAWsP Player
-Tento repozitář obsahuje jednoduchý `.json` přehrávač pro doplněk TMDb Helper v Kodi. Umožňuje vyhledávání filmů a seriálů prostřednictvím doplňku YAWsP (https://github.com/Tigi-avio/plugin.video.yawsp).
+Tento repozitář obsahuje jednoduchý `.json` přehrávač pro doplněk TMDb Helper v Kodi. Umožňuje vyhledávání filmů a seriálů prostřednictvím doplňku YAWsP (https://github.com/peca2345/plugin.video.yawsp).
 
 *Vytvořeno ve spolupráci s umělou inteligencí.*
 
